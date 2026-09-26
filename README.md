@@ -36,9 +36,7 @@ This framework is designed to operate not as an aggressive external tool, but as
 
 ## The Visual Map
 
-*(Drag and drop your visual map image file directly into your GitHub repository folder, and it will render automatically here)*
 
-![Zero-Point Map Architecture](./map-placeholder.png)
 
 ---
 
